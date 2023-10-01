@@ -1,3 +1,40 @@
+# Conversor Universal - Desafío ONE 🚀
+
+¡Bienvenido a mi Conversor Universal! Este proyecto es parte del desafío del programa ONE. Convierte entre diferentes tipos de unidades, incluyendo monedas y temperaturas. ¡Sigue leyendo para conocer más!
+
+## Características
+
+- Conversión de Monedas: Convierte entre diferentes monedas utilizando tasas de conversión en tiempo real.
+- Conversión de Temperaturas: Cambia entre diferentes escalas de temperatura y obtén resultados precisos.
+
+## Capturas de Pantalla 📷
+
+![Mira este gif](URL_DEL_GIF)
+
+## Instalación
+
+1. Clona este repositorio en tu máquina local.
+2. Compila y ejecuta el programa en tu IDE favorito.
+
+## Uso
+
+1. Ejecuta el programa y elige entre "Conversor de Moneda" o "Conversor de Temperatura".
+2. Sigue las instrucciones en pantalla para ingresar valores y realizar conversiones.
+3. ¡Obtén resultados precisos y útiles en cuestión de segundos!
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. ¡Siéntete libre de usarlo y modificarlo como desees!
+
+## Contacto
+
+Si tienes preguntas, sugerencias o comentarios, ¡estaré encantado de escucharte! Puedes contactarme a través de [Twitter](https://twitter.com/Fevil1401).
+
+¡Gracias por usar el Conversor Universal! Espero que te sea útil y divertido. 😄
+
+--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+
 # Universal Converter - ONE Challenge 🚀
 
 Welcome to my Universal Converter! This project is part of the ONE program challenge. Convert between different types of units, including currencies and temperatures. Keep reading to learn more!
@@ -9,12 +46,7 @@ Welcome to my Universal Converter! This project is part of the ONE program chall
 
 ## Screenshots 📷
 
-![image](https://github.com/DarkNaegleria/ConverterChallenge/assets/122141111/c2abc6c1-0a62-4995-98e7-26bb1f35a6f0)
-
-![image](https://github.com/DarkNaegleria/ConverterChallenge/assets/122141111/9bee429a-b3b8-4494-8bc8-d0aee48feaa6)
-
-![image](https://github.com/DarkNaegleria/ConverterChallenge/assets/122141111/2d43b0c5-5d2c-453a-b39d-f871117a2918)
-
+![Look at this gif](URL_DEL_GIF)
 
 ## Installation
 
