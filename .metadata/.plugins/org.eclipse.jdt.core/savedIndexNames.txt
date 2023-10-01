@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\frvm9\Desktop\Programación Autodidacta\Alura ONE\JAVA Projects\Challenges\ConverterProgram\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2333593163.index
+3413725848.index

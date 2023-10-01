@@ -1,0 +1,5 @@
+package currency.program;
+
+public class CurrencyConvertionRates {
+
+}
