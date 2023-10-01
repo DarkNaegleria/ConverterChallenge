@@ -9,7 +9,7 @@
 
 ## Capturas de Pantalla 📷
 
-![Mira este gif](URL_DEL_GIF)
+![Mira este gif](https://github.com/DarkNaegleria/ConverterChallenge/blob/main/ConverterProgram/Gif/converterchallenger.gif)
 
 ## Instalación
 
@@ -46,7 +46,7 @@ Welcome to my Universal Converter! This project is part of the ONE program chall
 
 ## Screenshots 📷
 
-![Look at this gif](URL_DEL_GIF)
+![Look at this gif](https://github.com/DarkNaegleria/ConverterChallenge/blob/main/ConverterProgram/Gif/converterchallenger.gif)
 
 ## Installation
 
